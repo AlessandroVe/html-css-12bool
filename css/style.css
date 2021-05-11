@@ -1,0 +1,14 @@
+
+.row {
+    border: 1px solid black;
+    height: 200px;
+}
+.row>div{
+    border: 1px solid black;
+    background-color: plum;
+    padding: 10px;
+}
+.col-xs-6>div{
+    background-color: green;
+    border: plum 2px solid;
+}
